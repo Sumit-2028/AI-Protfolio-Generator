@@ -1,0 +1,11 @@
+# Go
+/AI Protfolio Maker/go.sum
+/AI Protfolio Maker/bin/
+
+# Node
+/frontend/node_modules/
+/frontend/dist/
+
+# Environment variables
+.env
+.env.local
